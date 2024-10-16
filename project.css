@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(21, 21, 36);
+    background-image: url(https://a.allegroimg.com/original/118211/83d54926410e8292fe32fbbb86e2);
+    color: white;
+}
+header{
+    height: 150px;
+    color: red;
+    text-align: center;
+    text-shadow: black 2px 4px 2px;
+}
+main{
+    background-color: rgb(27, 28, 43);
+    height: 1600px;
+    display: flex;
+    justify-content: center;
+}
+main img{
+    float: right;
+    padding-right: 50px;
+    height: 180px;
+    width: 320px;
+}
+
+
+.inf{
+    background-color: rgb(9, 10, 10);
+    width: 25%;
+    padding-left: 40px;
+}
+.inf img{
+    height: 500px;
+}
+
+.inf h4{
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+}
+
+footer{
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+footer ul{
+    padding-right: 50px;
+}
